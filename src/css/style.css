@@ -578,7 +578,7 @@ textarea {
 
 .footer {
   background-color: #282828;
-  height: 26%;
+  height: 30%;
   color: #ffffff; }
 
 .footer ul {
@@ -629,7 +629,7 @@ textarea {
       width: 80%; } }
 
 @media screen and (max-width: 480px) {
-  .logo_words {
+  .logo .logo_words h1 {
     color: #ffffff; } }
 
 .close-btn {
@@ -701,7 +701,7 @@ textarea {
       height: 43%; } }
   @media screen and (max-width: 480px) {
     .in {
-      height: 49%; } }
+      height: 55%; } }
   .in .in_a {
     padding-left: 50px;
     padding-right: 60px;
