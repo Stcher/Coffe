@@ -574,7 +574,7 @@ textarea {
   @media screen and (max-width: 800px) {
     .contact {
       flex-wrap: wrap;
-      height: 950px; } }
+      height: 1020px; } }
 
 .footer {
   background-color: #282828;
@@ -668,7 +668,7 @@ textarea {
       width: 440px; } }
   @media screen and (max-width: 800px) and (max-width: 480px) {
     #map {
-      width: 380px; } }
+      width: 320px; } }
 
 .wrapmap {
   padding-top: 70px;
